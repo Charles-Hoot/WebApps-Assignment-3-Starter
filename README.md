@@ -1,2 +1,2 @@
-# WebApps-S23-Assignment-3
+# WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML
